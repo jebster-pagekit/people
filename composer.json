@@ -1,0 +1,18 @@
+{
+    "name": "jebster/people",
+    "type": "pagekit-extension",
+    "version": "0.0.1",
+    "title": "People",
+    "description": "Create a page with a list of people",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jebster",
+            "email": "pagekit@jebster.net",
+            "homepage": "http://jebster.net"
+        }
+    ],
+    "extra": {
+        "image": "image.png"
+    }
+}
