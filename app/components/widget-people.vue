@@ -123,9 +123,6 @@
         created() {
             this.$options.partials = this.$parent.$options.partials;
             this.widget.data.people = _.merge([], this.widget.data.people);
-            this.widget.data.config = _.merge({
-                'someSettings': false
-            }, this.widget.data.config);
             this.loadDepartments();
         },
 

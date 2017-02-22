@@ -29,10 +29,7 @@ return [
     ],
 
     'config' => [
-        'departments' => [
-            'Sales' => [],
-            'IT' => []
-        ]
+        'departments' => []
     ],
 
 
